@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/productos"
+        android:title="Productos">
+    </item>
+    <item
+        android:id="@+id/servicios"
+        android:title="Servicios">
+    </item>
+    <item
+        android:id="@+id/sucursales"
+        android:title="Sucursales">
+    </item>
+
+</menu>
